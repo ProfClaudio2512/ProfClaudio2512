@@ -1,16 +1,48 @@
-## Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-<!--
-**ProfClaudio2512/ProfClaudio2512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Currículo "Alunos do Primeiro Ano do Ensino médio".
 
-Here are some ideas to get you started:
+A brief description of what this project does and who it's for
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## **[Seu Nome]**
+
+**[Seu Cargo Desejado] | [Sua Área de Atuação]**
+
+**[Seu Link para o LinkedIn] | [Seu Email] | [Seu Portfólio]**
+
+### Sobre mim
+
+[Uma breve descrição sobre suas habilidades, experiências e objetivos de carreira]
+
+### Habilidades técnicas
+
+* **Linguagens de programação:** [Python, JavaScript, etc.]
+* **Frameworks e bibliotecas:** [React, Django, etc.]
+* **Ferramentas:** [Git, Docker, etc.]
+* **Outras:** [SQL, AWS, etc.]
+
+### Projetos
+
+* **[Nome do Projeto]**
+    * Descrição: [Uma breve descrição do projeto]
+    * Tecnologias: [As tecnologias utilizadas]
+    * Link: [Link para o repositório do projeto]
+* **[Nome do Projeto]**
+    * ...
+
+### Experiência
+
+* **[Cargo]** - [Empresa] - [Período]
+    * [Descrição das suas responsabilidades]
+
+### Educação
+
+* **[Grau]** - [Universidade/Instituição] - [Período]
+
+### Certificados
+
+* [Lista de seus certificados]
+
+### Contato
+
+[Seus dados de contato completos]
